@@ -1,12 +1,12 @@
 {
-    "version": "2.64.1-nightly202610290827",
+    "version": "2.65.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/kdeps/kdeps/releases/download/v2.64.1-nightly202610290827/kdeps_Windows_x86_64.zip",
+            "url": "https://github.com/kdeps/kdeps/releases/download/v2.65.0/kdeps_Windows_x86_64.zip",
             "bin": [
                 "kdeps.exe"
             ],
-            "hash": "35b73f8a3af40a37112d012cdedd01598174ef0523921b55cef33a18baaf832f"
+            "hash": "5d1c2c63486173ad98548822f749ac78a28da8a7fb51e8ee94a5333378d46afe"
         }
     },
     "homepage": "https://kdeps.com",
