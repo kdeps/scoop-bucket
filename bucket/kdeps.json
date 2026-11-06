@@ -1,12 +1,12 @@
 {
-    "version": "2.70.0",
+    "version": "2.71.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/kdeps/kdeps/releases/download/v2.70.0/kdeps_Windows_x86_64.zip",
+            "url": "https://github.com/kdeps/kdeps/releases/download/v2.71.0/kdeps_Windows_x86_64.zip",
             "bin": [
                 "kdeps.exe"
             ],
-            "hash": "fdbceccb14b3f2f9f6e78daf5de74fb776054064c4d6200e896565d28df33924"
+            "hash": "9cf4946dbf6f22c5102a4a5c2c0e919a3c11e38ffb589175296aeb75161359b6"
         }
     },
     "homepage": "https://kdeps.com",
