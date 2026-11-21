@@ -2,8 +2,7 @@
 
 ```powershell
 scoop bucket add kdeps https://github.com/kdeps/scoop-bucket
-scoop install kdeps          # CLI
-scoop install kdeps-desktop  # desktop app (standalone)
+scoop install kdeps
 ```
 
 Manifests are updated automatically on every kdeps release.
